@@ -2,10 +2,10 @@
 
 ## I'm a Developer, Mystic and Dreamer
 
-- 🔭 This repo will have DEVRESCUE.COM Tutorial Code
-- 🌱 My Original Tutorials
-- 🥅 Feel free to use but UNDERSTAND what the code does
-- ⚡ PYTHON Code only
+- 🔭 DEVRESCUE.COM Tutorial Code
+- 🌱 Original Content
+- 🥅 FREE TO USE
+- ⚡ PYTHON Code
 
 ### Languages and Tools:
 
