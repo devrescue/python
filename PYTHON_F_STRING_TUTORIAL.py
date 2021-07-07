@@ -206,9 +206,9 @@ print("\n")
 #Output
 #Top 3 World Economies by GDP (2021 est.) are:
 #  COUNTRY    GDP (US$ M) per IMF
-#  USA               22,675,271
-#  China            16,642,318
-#  Japan            5,378,136
+#  USA        22,675,271
+#  China      16,642,318
+#  Japan      5,378,136
 
 ##############################################
 #The :>X Right aligns output within the available space specified by X characters eg. :>20 right align within 20 character space.
@@ -228,9 +228,9 @@ print("\n")
 #Output
 #Top 3 World Economies by GDP (2021 est.) are:
 #  COUNTRY     GDP (US$ M) per IMF
-#  USA                                  22,675,271
-#  China                               16,642,318
-#  Japan                                 5,378,136
+#  USA                  22,675,271
+#  China                16,642,318
+#  Japan                5,378,136
 
 ##############################################
 #The :^X Center aligns output within the available space specified by X characters eg. :^20 center align within 20 character space. 
@@ -250,8 +250,8 @@ print("\n")
 
 #Top 3 World Economies by GDP (2021 est.) are:
 #  COUNTRY    GDP (US$ M) per IMF
-#  USA                         22,675,271
-#  China                      16,642,318
-#  Japan                      5,378,136
+#  USA             22,675,271
+#  China           16,642,318
+#  Japan            5,378,136
 
 ##############################################
