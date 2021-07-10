@@ -2,7 +2,7 @@
 import os
 import pandas as pd #pip install pandas
 
-boxoffice = os.path.join("boxoffice.csv")
+boxoffice = os.path.join("datasets","boxoffice.csv")
 
 df = pd.read_csv(boxoffice)
 
