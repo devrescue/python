@@ -36,9 +36,3 @@ knn.fit(X,y)
 
 # predict labels for training data X
 y_pred = knn.predict(X)
-
-
-
-
-
-

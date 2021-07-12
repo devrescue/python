@@ -20,6 +20,6 @@
 2. ❗️ Python JSON Pretty Print Tutorial: [CODE HERE](PYTHON_JSON_PRETTY_A.py) | [ARTICLE HERE](https://devrescue.com/python-json-pretty-print-tutorial/)
 3. ❗️ Python JSON Pretty Print with Examples: [CODE HERE](PYTHON_JSON_PRETTY_B.py) | [ARTICLE HERE](https://devrescue.com/python-json-pretty-print-with-examples/)
 4. ❗️ Python CSV Files with pandas: [CODE HERE](PYTHON_PANDAS_CSV.py) | [ARTICLE HERE](https://devrescue.com/python-csv-files-with-pandas/)
-5. ❗️ Simple Python k-Nearest Neighbors Tutorial: [CODE HERE](PYTHON_ML_KNN_A.py) | [ARTICLE HERE](https://devrescue.com/python-csv-files-with-pandas/) | [NOTEBOOK](PYTHON_PANDAS_CSV.py)
+5. ❗️ Simple Python k-Nearest Neighbors Tutorial: [CODE HERE](PYTHON_ML_KNN_A.py) | [ARTICLE HERE](https://devrescue.com/simple-python-k-nearest-neighbors-tutorial/) | [NOTEBOOK](https://github.com/devrescue/python/blob/main/PYTHON_ML_KNN_A.ipynb)
 
 </details>
