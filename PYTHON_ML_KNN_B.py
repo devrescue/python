@@ -1,12 +1,15 @@
 # Import necessary modules
 from sklearn.neighbors import KNeighborsClassifier
 from sklearn.model_selection import train_test_split
-import os
-import pandas as pd
+import requests
+import pandas as pd 
+import io
 
-spectf = os.path.join("datasets","SPECTF.csv")
+url = 'https://raw.githubusercontent.com/devrescue/python/main/datasets/SPECTF.csv'
 
-df = pd.read_csv(spectf)
+s = requests.get(url).content
+
+df = pd.read_csv(io.StringIO(s.decode('utf-8')))
 
 #labels y
 y = df['OVERALL_DIAGNOSIS'].values 

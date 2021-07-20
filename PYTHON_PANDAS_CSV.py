@@ -1,10 +1,15 @@
 # Import packages
-import os
+import requests
 import pandas as pd #pip install pandas
+import io
 
-boxoffice = os.path.join("datasets","boxoffice.csv")
+url = 'https://raw.githubusercontent.com/devrescue/python/main/datasets/boxoffice.csv'
 
-df = pd.read_csv(boxoffice)
+#boxoffice = requests.get(url)
+s=requests.get(url).content
+df=pd.read_csv(io.StringIO(s.decode('utf-8')))
+
+#df = pd.read_csv(url)
 
 print(df.info())
 print(df.head())

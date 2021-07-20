@@ -1,12 +1,18 @@
 from sklearn.neighbors import KNeighborsClassifier
-import os
-import pandas as pd
+
+import requests
+import pandas as pd 
+import io
+
 import numpy as np
 import matplotlib.pyplot as plt
 
-spectf = os.path.join("datasets","SPECTF.csv")
 
-df = pd.read_csv(spectf)
+url = 'https://raw.githubusercontent.com/devrescue/python/main/datasets/SPECTF.csv'
+
+s = requests.get(url).content
+
+df = pd.read_csv(io.StringIO(s.decode('utf-8')))
 
 #some information about our dataset
 print(df.info())
