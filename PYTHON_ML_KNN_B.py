@@ -15,7 +15,7 @@ df = pd.read_csv(io.StringIO(s.decode('utf-8')))
 y = df['OVERALL_DIAGNOSIS'].values 
 
 #features X
-X = df.drop('OVERALL_DIAGNOSIS', axis=1).values 
+X = df.drop('OVERALL_DIAGNOSIS', axis=1).values
 
 # Split into training and test set
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size = 0.4, random_state=42, stratify=y)

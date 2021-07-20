@@ -5,11 +5,8 @@ import io
 
 url = 'https://raw.githubusercontent.com/devrescue/python/main/datasets/boxoffice.csv'
 
-#boxoffice = requests.get(url)
-s=requests.get(url).content
-df=pd.read_csv(io.StringIO(s.decode('utf-8')))
-
-#df = pd.read_csv(url)
+s = requests.get(url).content
+df = pd.read_csv(io.StringIO(s.decode('utf-8')))
 
 print(df.info())
 print(df.head())
