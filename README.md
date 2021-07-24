@@ -24,4 +24,5 @@
 6. ❗️ k-Nearest Neighbors Accuracy in Python: [CODE HERE](PYTHON_ML_KNN_B.py) | [NOTEBOOK](https://github.com/devrescue/python/blob/main/PYTHON_ML_KNN_B.ipynb)
 7. ❗️ PYTHON LIST COMPREHENSION WITH DATAFRAMES – PART 1: [CODE HERE](PYTHON_DF_LC.py) | [NOTEBOOK](https://github.com/devrescue/python/blob/main/PYTHON_DF_LC.ipynb)
 8. ❗️ PYTHON LIST COMPREHENSION WITH MULTIPLE LISTS: [CODE HERE](PYTHON_LC_A.py) | [ARTICLE HERE](https://devrescue.com/python-list-comprehension-with-multiple-lists/)
+9. ❗️ Python List Comprehension Nested For Loops: [CODE HERE](PYTHON_LC_B.py) | [ARTICLE HERE](https://devrescue.com/python-list-comprehension-nested-for-loops/)
 </details>
