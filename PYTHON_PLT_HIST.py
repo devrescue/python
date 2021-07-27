@@ -24,7 +24,7 @@ for x,y in zip(classTypes,classCount):
     label = "{:.2f}".format(y)
 
     plt.annotate(label, # label text
-                 (x,y), # label position
+                 (x,y), #  The point (x, y) to annotate
                  textcoords="offset points", # offset (in points) from the xy value
                  xytext=(0,10), # position (x, y) to place the text at. 
                  ha='center') # horizontal alignment is center in this case
