@@ -17,7 +17,7 @@ classCount = [len(df[df.CLASS_TYPES == 'A']),
               len(df[df.CLASS_TYPES == 'F']),
               len(df[df.CLASS_TYPES == 'G'])]
 
-ax.bar(classTypes,classCount,color=['#ffadad', '#ffd6a5', '#fdffb6', '#caffbf', '#caffbf','#9bf6ff','#a0c4ff'])
+ax.bar(classTypes,classCount,color=['#ffadad', '#ffd6a5', '#fdffb6', '#caffbf', '#ffc6ff','#9bf6ff','#a0c4ff'])
 
 for x,y in zip(classTypes,classCount):
 
