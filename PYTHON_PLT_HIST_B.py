@@ -35,18 +35,18 @@ for x,y1,y2 in zip(classType,women_count,men_count):
     
     label = "{:.2f}".format(y2)
 
-    plt.annotate(label, # label text
-                 (x,y2), #  The point (x, y) to annotate
-                 textcoords="offset points", # offset (in points) from the xy value
-                 xytext=(0,-14), # position (x, y) to place the text at. 
-                 ha='center') # horizontal alignment is center in this case
+    plt.annotate(label, 
+                 (x,y2), 
+                 textcoords="offset points", 
+                 xytext=(0,-14), 
+                 ha='center') 
 
     label = "{:.2f}".format(y1+y2)
 
-    plt.annotate(label, # label text
-                 (x,y1+y2), #  The point (x, y) to annotate
-                 textcoords="offset points", # offset (in points) from the xy value
-                 xytext=(0,9), # position (x, y) to place the text at. 
-                 ha='center') # horizontal alignment is center in this case
+    plt.annotate(label, 
+                 (x,y1+y2), 
+                 textcoords="offset points",
+                 xytext=(0,9), 
+                 ha='center') 
 
 plt.show()
