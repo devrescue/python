@@ -26,4 +26,5 @@
 8. ❗️ PYTHON LIST COMPREHENSION WITH MULTIPLE LISTS: [CODE HERE](PYTHON_LC_A.py) | [ARTICLE HERE](https://devrescue.com/python-list-comprehension-with-multiple-lists/)
 9. ❗️ Python List Comprehension Nested For Loops: [CODE HERE](PYTHON_LC_B.py) | [ARTICLE HERE](https://devrescue.com/python-list-comprehension-nested-for-loops/)
 10. ❗️ Plot Bar Graph with Python and matplotlib: [CODE HERE](PYTHON_PLT_HIST.py) | [ARTICLE HERE](https://devrescue.com/plot-bar-graph-with-python-and-matplotlib/) | [NOTEBOOK](https://github.com/devrescue/python/blob/main/PYTHON_PLT_HIST.ipynb)
+11. ❗️ STACKED BAR PLOT WITH PYTHON: [CODE HERE](PYTHON_PLT_HIST_B.py) | [ARTICLE HERE](https://devrescue.com/stacked-bar-plot-with-python/) | [NOTEBOOK](https://github.com/devrescue/python/blob/main/PYTHON_PLT_HIST_B.ipynb)
 </details>
