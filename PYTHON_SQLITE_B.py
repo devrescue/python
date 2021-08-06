@@ -12,37 +12,24 @@ cur.execute('''CREATE TABLE IF NOT EXISTS Playlist
                duration text, 
                songprice real)''')
 
+# Insert a row of data
+cur.execute("INSERT INTO PlayList VALUES ('2022-01-31',1,'Kanye West','Fade','Life of Pablo','3:13',2.99)")
+cur.execute("INSERT INTO PlayList VALUES ('2022-01-31',2,'Kanye West','Ultralight Beam','Life of Pablo','5:20',3.99)")
+cur.execute("INSERT INTO PlayList VALUES ('2022-01-31',3,'Kanye West','Famous','Life of Pablo','3:16',1.99)")
+
+# Save (commit) the changes
+con.commit()
+
+#select rows
+for row in cur.execute('SELECT * FROM PlayList'):
+    print(row)
+
+#select rows
+for row in cur.execute('SELECT * FROM PlayList WHERE songprice > 3'):
+    print(row)
+    
+#select rows
+for row in cur.execute("SELECT * FROM PlayList WHERE songTitle LIKE '%Fa%'"):
+    print(row)
+
 con.close()
-
-cur.execute('''CREATE TABLE IF NOT EXISTS Playlist2
-              (createdate text, id integer, artist text, songTitle text, albumTitle text, duration text, songprice real)''')
-
-for row in cur.execute('''SELECT name FROM sqlite_schema WHERE type='table' ORDER BY name'''):
-    print(row) #shows two tables 
- 
-# Close connection
-con.close()
-
-con = sqlite3.connect('data/sample.db')
-cur = con.cursor()
-
-# Drop table
-cur.execute('''DROP TABLE IF EXISTS Playlist2''')
-
-for row in cur.execute('''SELECT name FROM sqlite_master WHERE type='table' ORDER BY name'''):
-   print(row) #shows one table 
-
-# Close connection
-con.close()
-
-
-# # Insert a row of data
-# cur.execute("INSERT INTO PlayList VALUES ('2022-01-31',1,'Kanye West','Fade','Life of Pablo','3:23',2.99)")
-
-
-# # Save (commit) the changes
-# con.commit()
-
-
-# for row in cur.execute('SELECT * FROM PlayList'):
-#         print(row)
