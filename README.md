@@ -29,4 +29,5 @@
 11. ❗️ STACKED BAR PLOT WITH PYTHON: [CODE HERE](PYTHON_PLT_HIST_B.py) | [ARTICLE HERE](https://devrescue.com/stacked-bar-plot-with-python/) | [NOTEBOOK](https://github.com/devrescue/python/blob/main/PYTHON_PLT_HIST_B.ipynb)
 12. ❗️ Plotly Bar Chart with Python: [CODE HERE](PYTHON_PLOTLY_A.py) | [ARTICLE HERE](https://devrescue.com/plotly-bar-chart-in-python-with-code/)
 13. ❗️ Bar Plot with Python and seaborn: [CODE HERE](PYTHON_SEABORN_A.py) | [ARTICLE HERE](https://devrescue.com/bar-plot-with-python-and-seaborn/) | [NOTEBOOK](https://github.com/devrescue/python/blob/main/PYTHON_SEABORN_A.ipynb)
+14. ❗️ Python sqlite3 Create Tables: [CODE HERE](PYTHON_SQLITE_A.py) | [ARTICLE HERE](https://devrescue.com/python-sqlite3-create-tables/)
 </details>
