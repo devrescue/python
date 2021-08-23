@@ -32,5 +32,5 @@
 14. ❗️ Python sqlite3 Create Tables: [CODE HERE](PYTHON_SQLITE_A.py) | [ARTICLE HERE](https://devrescue.com/python-sqlite3-create-tables/)
 15. ❗️ Python sqlite3 Select and Insert: [CODE HERE](PYTHON_SQLITE_B.py) | [ARTICLE HERE](https://devrescue.com/python-sqlite3-select-and-insert/)
 16. ❗️ Python sqlite3 Delete Row Example: [CODE HERE](PYTHON_SQLITE_C.py) | [ARTICLE HERE](https://devrescue.com/python-sqlite3-delete-row-example/)
-17. ❗️ Python Plot Vector with matplotlib: [NOTEBOOK](PYTHON_SQLITE_C.py) | [ARTICLE](https://devrescue.com/python-plot-vector-with-matplotlib/)
+17. ❗️ Python Plot Vector with matplotlib: [NOTEBOOK](DrawVector.ipynb) | [ARTICLE](https://devrescue.com/python-plot-vector-with-matplotlib/)
 </details>
