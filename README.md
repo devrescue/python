@@ -31,4 +31,5 @@
 13. ❗️ Bar Plot with Python and seaborn: [CODE HERE](PYTHON_SEABORN_A.py) | [ARTICLE HERE](https://devrescue.com/bar-plot-with-python-and-seaborn/) | [NOTEBOOK](https://github.com/devrescue/python/blob/main/PYTHON_SEABORN_A.ipynb)
 14. ❗️ Python sqlite3 Create Tables: [CODE HERE](PYTHON_SQLITE_A.py) | [ARTICLE HERE](https://devrescue.com/python-sqlite3-create-tables/)
 15. ❗️ Python sqlite3 Select and Insert: [CODE HERE](PYTHON_SQLITE_B.py) | [ARTICLE HERE](https://devrescue.com/python-sqlite3-select-and-insert/)
+16. ❗️ Python sqlite3 Delete Row Example: [CODE HERE](PYTHON_SQLITE_C.py) | [ARTICLE HERE](https://devrescue.com/python-sqlite3-delete-row-example/)
 </details>
