@@ -33,5 +33,5 @@
 15. ❗️ Python sqlite3 Select and Insert: [CODE HERE](PYTHON_SQLITE_B.py) | [ARTICLE HERE](https://devrescue.com/python-sqlite3-select-and-insert/)
 16. ❗️ Python sqlite3 Delete Row Example: [CODE HERE](PYTHON_SQLITE_C.py) | [ARTICLE HERE](https://devrescue.com/python-sqlite3-delete-row-example/)
 17. ❗️ Python Plot Vector with matplotlib: [NOTEBOOK](DrawVector.ipynb) | [ARTICLE](https://devrescue.com/python-plot-vector-with-matplotlib/)
-18. ❗️ Add and Subtract Vectors In Python: [NOTEBOOK](VectorArithmetic.ipynb) | [ARTICLE](https://devrescue.com/python-plot-vector-with-matplotlib/)
+18. ❗️ Add and Subtract Vectors In Python: [NOTEBOOK](VectorArithmetic.ipynb) | [ARTICLE](https://devrescue.com/add-and-subtract-vectors-in-python/)
 </details>
