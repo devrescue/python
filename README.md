@@ -35,4 +35,5 @@
 17. ❗️ Python Plot Vector with matplotlib: [NOTEBOOK](DrawVector.ipynb) | [ARTICLE](https://devrescue.com/python-plot-vector-with-matplotlib/)
 18. ❗️ Add and Subtract Vectors In Python: [NOTEBOOK](VectorArithmetic.ipynb) | [ARTICLE](https://devrescue.com/add-and-subtract-vectors-in-python/)
 19. ❗️ Python writelines With Examples: [NOTEBOOK](Writelines.ipynb) | [ARTICLE](https://devrescue.com/python-writelines-with-examples/)
+20. ❗️ Python Lstrip and Rstrip: [NOTEBOOK](RstripLstrip.ipynb) | [ARTICLE](https://devrescue.com/python-rstrip-and-lstrip/)
 </details>
